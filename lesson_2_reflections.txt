@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	When you initialise a directory git creates a new file called .git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area it's like a directory that contains all the file that need to be commited to the remote repository.
